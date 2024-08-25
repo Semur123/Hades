@@ -1,0 +1,27 @@
+h1{
+    color:rgb(226, 177, 17);
+     text-align:center;
+     font-size: 40px;
+}
+img{
+    width: 170px;
+    margin-left: 220px;
+    border-radius: 30px;
+    border:3px solid rgb(13, 10, 192) ;
+}   
+main p{
+    color:rgb(42, 165, 69);
+    font-size: 29px;
+     margin-left: 50px;
+   
+}
+p {
+    font-size: 15px;
+}
+footer{
+    color:aqua;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(62, 31, 161);
+}
